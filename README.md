@@ -1,6 +1,6 @@
 # CastleGame
-Algorithm and Data structure course project
-Visual Studio 2015
+Algorithm and Data structure course project.
+Visual Studio 2015.
 A fibonacci-heap implementation of protect the castle game.
 To understand the game and the code read the report.pdf
 To run the game build the project and run Source.cpp
